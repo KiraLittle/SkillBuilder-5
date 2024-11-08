@@ -1,0 +1,17 @@
+/.gradle/
+gradle/
+build/
+solution/
+gradlew
+gradlew.bat
+/src/test/java/Solution.java
+
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### IntelliJ IDEA ###
+/.idea/
+
+### Mac OS ###
+.DS_Store
